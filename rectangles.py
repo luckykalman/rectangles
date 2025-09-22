@@ -1,3 +1,6 @@
+# author Yann Monneyron
+
+
 import numpy as np
 from collections import deque
 
